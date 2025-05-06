@@ -1,3 +1,5 @@
+📦 Contents
+
 Exercise 01: ft_strncpy
 Description: This exercise aims to replicate the functionality of the strncpy function in C. strncpy copies a specified number of characters from the source string to the destination string.
 
